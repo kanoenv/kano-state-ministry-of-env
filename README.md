@@ -19,61 +19,6 @@ Tailwind CSS – Utility-first CSS framework
 
 shadcn/ui – Modern UI component library
 
-🔧 How to Run the Project Locally
-To run the project on your machine:
-
-Prerequisites
-Node.js & npm installed (Install via nvm)
-
-Steps
-bash
-Copy
-Edit
-# 1. Clone the repository
-git clone https://github.com/hareesdevkano/YOUR_REPO_NAME
-
-# 2. Move into the project directory
-cd YOUR_REPO_NAME
-
-# 3. Install dependencies
-npm install
-
-# 4. Start the development server
-npm run dev
-Visit http://localhost:5173 (or as specified) in your browser to preview the app.
-
-✏️ How to Edit or Contribute
-You can edit this project through any of the following methods:
-
-🖥️ Local Development
-Use VS Code or any IDE of your choice to edit and push changes.
-
-🧑‍💻 GitHub Web Interface
-Navigate to the file on GitHub.
-
-Click the “Edit” (🖉) icon.
-
-Make your changes and commit.
-
-💻 GitHub Codespaces (Browser IDE)
-Go to your repo on GitHub.
-
-Click on Code > Codespaces tab.
-
-Launch a new Codespace.
-
-Make changes and commit directly in the browser.
-
-🌐 Deployment Instructions
-To deploy or redeploy the site:
-
-Connect to Netlify or another platform like Vercel, Render, etc.
-
-Push changes to your GitHub repository.
-
-Netlify will automatically detect changes and deploy.
-
-To link a custom domain, follow your hosting platform’s DNS instructions.
 
 📞 Contact Information
 If you have suggestions, inquiries, or wish to collaborate, reach out:
